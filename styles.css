@@ -60,6 +60,7 @@ h3 {
   width: 400px;
   height: 50px;
   align-items: center;
+  padding-top: 80px;
   
 }
 .imgtransport{
@@ -74,7 +75,7 @@ h3 {
   display: flex;
   align-items: center;
   justify-content:space-around;
-  margin-top: 80px;
+  margin-top: 120px;
   
 
 }

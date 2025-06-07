@@ -72,7 +72,11 @@ h3 {
 }
 .heroTransport{
   display: flex;
-  margin-top: 20px;
+  align-items: center;
+  justify-content:space-around;
+  margin-top: 80px;
+  
+
 }
 .ParkDiv{
   display: flex;

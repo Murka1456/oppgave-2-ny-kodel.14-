@@ -64,7 +64,7 @@ h3 {
 }
 .imgtransport{
   max-width: 300px;
-  max-height: 400px;
+  max-height: 600px;
 }
 .hjerte{
   width: 20px;
@@ -72,6 +72,7 @@ h3 {
 }
 .heroTransport{
   display: flex;
+  margin: 20px;
 }
 .ParkDiv{
   display: flex;

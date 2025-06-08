@@ -1,12 +1,13 @@
 h1 {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: crimson;
   background-color:rgb(238, 238, 118);
+  padding-top: 10px;
 }
 h1 {
   text-align: center;
-  border: 2px;
+  border: 2px color red;
   border-radius: 20%;
   height: 60px;
 }

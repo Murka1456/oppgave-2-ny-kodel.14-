@@ -10,10 +10,9 @@ h1 {
   border-radius: 20%;
   height: 60px;
 }
-header{
-display:flex ;
-align-items: flex-end;
-justify-content: space-around;
+.navbar{
+  display: flex;
+  justify-items: end;
 }
 h2 {
   font-weight: bold;

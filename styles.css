@@ -13,9 +13,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 1 rem;
-  color: crimson;
-  background-color: yellow;
-
+  color: white;
   text-align: center;
 }
 
@@ -26,16 +24,17 @@ h2 {
 }*/
 h3 {
   
-  color: #f0f8ff;
+  color:white;
   font-size: larger;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  
+  align-items: end;
 }
 .heroDanmark {
   display: flex;
   align-items:center ;
   justify-content:space-around;
   margin-top: 20px;
+  
 
 }
 .heroimgdanmark{
@@ -45,6 +44,7 @@ h3 {
   
 }
 .herotextdanmark{
+  align-items: center;
   width: 400px;
   height: 222px;
   background-color: red;
@@ -52,9 +52,9 @@ h3 {
 .intro{
   display: flex;
 }
-.imgbilder{
-  max-width: 150px;
-  max-height: 250px;
+.imgbarn{
+  max-width: 100px;
+  max-height: 150px;
 }
 .imgPark{
   width: 400px;
@@ -64,18 +64,16 @@ h3 {
   
 }
 .imgtransport{
-  max-width: 300px;
-  max-height: 600px;
+  width: 300px;
+  height: 400px;
 }
-.hjerte{
-  width: 20px;
-  height: 20px;
-}
+
 .heroTransport{
   display: flex;
   align-items: center;
   justify-content:space-around;
   margin-top: 120px;
+  background-color:darkgreen;
   
 
 }

@@ -89,12 +89,22 @@ h3 {
   
 }
 .imgSwim{
-  width: 150px;
-  height: 200px;
+  width: 200px;
+  height: 350px;
+  margin-top: 20px;
 }
 .heroImgSwim{
-  backgr;
+  width: 200px;
+
+  height: 399px;
 }
 #overnatting{
-  background-color: aqua;
+  background-color: rgb(0, 34, 255);
+}
+.herotextSwim{
+  color:white;
+  width: 200px;
+
+  height: 222px;
+
 }

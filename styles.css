@@ -65,19 +65,17 @@ h3 {
   
 }
 .imgtransport{
-  width: 250px;
-  height: 300px;
+  width: 300px;
+  height: 400px;
 }
 
 .heroTransport{
   display: flex;
   align-items: center;
   justify-content:space-around;
+  margin-top: 120px;
   background-color:rgb(238, 238, 118);
-
-  .herotextTransport{
-
-  }
+  
   
 
 }

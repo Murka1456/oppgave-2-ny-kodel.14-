@@ -105,12 +105,12 @@ h3 {
   height: 399px;
   row-gap: 100px;
 }
-#overnatting{
+#Live{
   background-color: rgb(0, 34, 255);
   display: flex;
   justify-items: space-around;
   row-gap: 100px;
-  
+
 }
 .herotextSwim{
   color:white;

@@ -28,7 +28,7 @@ h3 {
   color:white;
   font-size: larger;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  align-items: end;
+  align-items: center;
 }
 .heroDanmark {
   display: flex;
